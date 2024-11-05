@@ -1,6 +1,10 @@
+Here's an updated README with additional instructions for setting up the required credentials files.
+
+---
+
 # ResuMate Pro
 
-**ResuMate Pro** is a smart resume analyzer built to help you create job-winning resumes effortlessly. With AI-driven insights and a streamlined process, ResuMate Pro takes your resume from good to outstanding. 
+**ResuMate Pro** is a smart resume analyzer built to help you create job-winning resumes effortlessly. With AI-driven insights and a streamlined process, ResuMate Pro takes your resume from good to outstanding.
 
 ## Key Features
 
@@ -16,12 +20,25 @@
 
 Ensure you have Python installed (version 3.10 or higher recommended).
 
+### Credential Setup
+
+To access certain features, you will need two credential files in the main directory:
+
+1. **`credentials.json`**: This file should include your Gemini API token. Add your token like this:
+    ```json
+    {
+      "gemini_token": "YOUR_GEMINI_API_TOKEN"
+    }
+    ```
+
+2. **`service-account-key.json`**: This file contains the service account details for accessing Google Cloud resources. You can download this JSON file from your Google Cloud Console. Ensure the service account has the necessary permissions for accessing BigQuery and other GCP resources.
+
 ### Installation
 
 1. **Clone this repository:**
 
    ```bash
-   https://github.com/bhav09/ResuMate.git
+   git clone https://github.com/bhav09/ResuMate.git
    cd ResuMate
    ```
 
