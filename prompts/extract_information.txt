@@ -1,0 +1,32 @@
+I need you to analyze this resume text and extract the following details in a clear JSON format:
+
+1. Full name
+2. Phone number
+3. Email address
+4. Highest education qualification
+5. Current company (if mentioned)
+6. Most relevant roles based on skills
+7. Key skills
+8. Total years of experience
+9. Location
+
+Here is the resume text: {resume_text}
+
+Instructions:
+1. Please make sure to provide these details in a structured list format for easy reading.
+2. Don't provide any other information/text
+3. Don't change the name of any column. Keep it as it is. 
+4. Respond as a JSON always
+
+Example format JSON:
+{
+    Full name: Name here,
+    Phone number: Phone number here,
+    Email address: Email address here,
+    Highest education qualification: Highest qualification here,
+    Current company: Current company here,
+    Relevant roles: Role 1, Role 2, (in one string)
+    Skills: Skill 1, Skill 2, (in one string)
+    Years of experience: years of experience here (string)
+    Location: Location of job here (if not found then respond Not Found)
+}

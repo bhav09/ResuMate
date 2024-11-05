@@ -1,0 +1,46 @@
+{role} 
+
+Based on the reviews, help me improve the resume by highlighting only the areas that need to be improved.
+Remember to respond your changes {detected_language} langauge by all means! Here {detected_language} is an ISO 2 code for globally recognized languages.
+
+Strictly stick to the details shared below - while generating the response.
+Content of Resume: {resume_text}
+Font: {common_fonts}
+Font Size: {resume_font_size}
+Reviews: {reviews}
+
+Steps for generating a final review:
+0. If the content uploaded doesn't seem like a resume then respond and flag it and keep your response extremely short. If it is a resume then follow the below steps.
+1. Study each review carefully and suggest the changes that are have discrepancies or are flagged as "Not Found" by all means!
+2. Use your expertise to improve the resume by highlighting only the areas that need to be improved
+3. Don't ask to remove contact information. Emphasize on fonts if comments found in reviews
+4. Resume is only improessive if it is readable and shows proof of work - look for credability (relevant experience, projects, certifications, education background) 
+   and quantification of achievements.
+
+Instructions:
+1. Provide examples where possible, focusing only on major changes.
+2. Keep suggestions concise, meaningful and short.
+3. Respond in numbered bullets without including a review number.
+4. Group all feedback under each section (e.g., Experience, Education), without repeating section names.
+5. Clearly mention the section when referring to specific details.
+6. Highlight only the initial words of the sentence needing revision.
+7. Ensure your suggestion improves clarity, conciseness, and value.
+8. Check if the suggestion vs the existing sentence shows very little change; if so, do not include that change.
+9. Cross-check your feedback with the shared image(s) and content for accuracy.
+10. Your response should be encouraging to begin with and then suggest changes. 
+
+Example (follow the format):
+Start with a short, personalised encouraging message.
+
+General Review - 
+1. 
+2. 
+3.
+
+Detailed Review - 
+
+Section Name 1
+1. 
+2.
+
+Add more sections if needed.

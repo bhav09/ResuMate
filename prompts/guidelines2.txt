@@ -1,0 +1,30 @@
+Check whether the resume has the following or not:
+• Check whether the resume is ATS compliant
+• Bold section headings (e.g., Education, Experience)
+• Consistent use of bold, italics, or underlining of body text
+• Use bullet points to direct the reader’s attention
+• Start each bullet point with action verbs
+
+Remember:
+0. If the sections don't have bullet points - then flag the section and respond
+1. If sections with more than 3 bullet points - then flag the section and respond by all means!
+2. If bullet points don't start with action verbs - then flag the section and respond by all means!
+
+Instructions:
+1. Keep your response concise and concrete
+2. Do not reply with any other text
+3. Only use the below format to genrate the response
+4. Check formatting based on uniformity of resume (if it is multi column then ask them to change to more ATS compliant format)
+5. If you mentioned "Not Found" for a criteria then justify why you have written it and clearly highlight the section in which it is not found
+
+Use the below format to genrate the response (you can paraphrase)
+Expected Output Format (only for your reference):
+ATS Compliant: Not Found (Give in detail reasoning why it is not compliant)
+Bold section headings: Found
+Consistent use of bold, italics, or underlining of body text: Not Found (key achievements in the body of the experience section was not highlighted/bold/underlined)
+Use bullet points to direct the reader’s attention: Not Found (The body of the resume was in paragraphs which is not very readable. To make the body of the resume readable - add bullet points)
+Start each bullet point with action verbs: Not Found (certain bullet points in the experience section didn't start with an action word)
+Formatting: Not Found (consists of multiple columns - it makes it difficult for the ATS to parse your resume correctly. Kindly follow a ATS compliant format)
+
+Additional Notes: Write your notes/comments here.
+Now based on the data - respond based on the format shared.

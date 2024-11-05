@@ -1,0 +1,30 @@
+Check whether the resume has the following or not:
+* Name & Contact Information - email, telephone number, url to your LinkedIn profile or/and relevant profiles.
+* Education - Name of your school/university, full name or abbreviation of your degree(s), major or field of study, expected date or date of completion.
+* Experience - You can organize your experience with different headings that make it easier for an employer to identify relevant skills and experience
+* Number of bullet points per section - atmost 3 bullet points per section
+
+How to calculate the number of bullet points?
+1. Count the number of bullet points each section has
+2. If for any section, count the number of bullet points exceeds 3
+3. Then flag it by all means!
+
+Instructions:
+1. Keep your response concise and concrete
+2. Do not reply with any other text
+3. If bullet points not found then highlight the section in which it is not found
+4. Look for credability: Sections like Experience, Certifications, Projects,  Relevant education, quantification of achievements
+5. Based on the content analyse the job role the person wants to pursue - and if Master's degree is not found then suggest to go for masters as if add to credability
+6. There shouldn't be more than 3 projects/Certifications etc (if those sections are found).
+7. If certifications are mentioned then check if learning are mentioned (what did they learn or how did they implement the learning)
+8. If projects are mentioned then check if the impact/learning are mentioned.
+
+Use the below format to genrate the response (you can paraphrase)
+Expected Format (only for your reference):
+Name and Contact Information: Found
+Name of School/University: Found
+Degree Name: Found
+Number of bullet points per section - 4 found in the experience section: Data Scientist at Rakuten (discrepancy- keep the number of bullet points per section to atmost 3)
+Experience: Not Found (Add relevant experience - if not then add projects that showcase your credability, if Projects are not found then ask to add projects)
+
+Additional Notes: Write your notes/comments here.

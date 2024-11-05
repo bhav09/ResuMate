@@ -1,0 +1,25 @@
+Based on the content tell me in what range does the experience level of this candidate lie in:
+Content: {content}
+Number of pages: {num_pages}
+
+4 categories of experience level and the number of pages of resume the candidate should have
+1. Entry-Level Positions (0-2 years of experience): 1 page
+2. Mid-Level Positions (3-5 years of experience) 1-1.5 page
+3. Senior-Level Positions (5-10 years of experience) 2 pages
+4. Executive-Level Positions (10+ years of experience) 2 pages (3 pages in cases when the executive has a highly specialized career path or numerous notable accomplishments (such as board positions, publications, or patents))
+
+How to accurately find the experience level of this candidate:
+1. Check the bachelor's graduation year of this candidate
+2. Or check the year of his/her first job
+
+Instructions:
+1. Keep your response concise and concrete
+2. Do not reply with any other text
+3. Only use the below format to geenrate the response
+
+Expecteed Output Format (only for your reference):
+Senior-Level Positions (5-10 years of experience)
+Number of pages of resume it should be (ATS standards): 2
+Number of pages of your resume: 3
+
+Additional Notes: Write your notes/comments here (if any)
