@@ -1,7 +1,3 @@
-Here's an updated README with additional instructions for setting up the required credentials files.
-
----
-
 # ResuMate Pro
 
 **ResuMate Pro** is a smart resume analyzer built to help you create job-winning resumes effortlessly. With AI-driven insights and a streamlined process, ResuMate Pro takes your resume from good to outstanding.
